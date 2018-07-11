@@ -1,0 +1,3 @@
+Run first ServerMain
+Server listen for clients to connect on port 4444 , you can change to different port.
+the run login class , Name : <your name> , IP: <localhost> , port: <4444>
